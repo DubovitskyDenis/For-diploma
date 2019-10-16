@@ -1,0 +1,5 @@
+,model_name,accuracy_score
+0,SVM,86.93
+1,Random Forest,79.6
+2,Naive Bayes,84.13
+3,Logistic Regression,86.67

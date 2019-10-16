@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<h1>Access Denied</h1>
+
+<p>Sadly, you do not currently appear to have permission to access
+<b>https://arxiv.org/pdf/1002.2000.pdf</b></p>
+
+
+<p>If you are using the PDF Plug-in, it has many bugs and is forbidden here
+due to problems it causes at the server end.
+You must confirm that you have disabled it before access can be restored.</p>
+
+<p>In Netscape try 
+    <code>Edit -&gt; Preferences -&gt; Navigator -&gt; Applications</code>,
+    look for <code>Portable Document Format</code> and uncheck the plug-in box.
+    Or delete the pdf plugin dll file from the
+    <code>Program Files/Netscape/Navigator/Program/plugins</code>
+    directory and restart browser. Or for Acroread4/Explorer5 users, 
+    go into Acroread's 
+    <code>File : Preferences : General : Web_Browser_Integration</code>
+    and make sure the little box is unchecked.</p>
+
+<p><b>Note to MacOSX users</b>: There is a bug in the Acrobat reader which
+    causes it to make endless streams of requests <i>after</i> having
+    successfully downloaded the full pdf. Note that it is not necessary to
+    use Acrobat at all, since pdf's from here render as well or better
+    in the default Preview.app on MacOSX. If for some reason you think you
+    need to use Acrobat, go to Acrobat <code>Preferences -&gt; Internet</code>
+    and turn off the 
+    "Allow speculative downloading in the background" option, which comes
+    (incorrectly) turned on by default, and whose behavior is quite broken.
+    </p>
+
+<p>If you believe this determination to be in error, see
+<b>https://arxiv.org/denied.html</b> for additional information.</p>
+</body>
+</html>
